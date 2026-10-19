@@ -25,7 +25,7 @@ hex = { version = "0.4.3", optional = true }
 
 [dev-dependencies]
 serde_json = "1.0.151"
-serde_yaml = "0.9.34"
+yaml_serde = "0.10.7"
 
 [package.metadata.docs.rs]
 all-features = true
